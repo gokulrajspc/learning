@@ -1,0 +1,7 @@
+in\learning\reactive\crud\entity\Product.class
+in\learning\reactive\crud\SpringReactiveCrud.class
+in\learning\reactive\crud\controller\ProductController.class
+in\learning\reactive\crud\repository\ProductRepository.class
+in\learning\reactive\crud\utils\AppUtils.class
+in\learning\reactive\crud\dto\ProductDto.class
+in\learning\reactive\crud\service\ProductService.class

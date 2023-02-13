@@ -1,0 +1,8 @@
+in\bassure\batch6\webflux\demo\app\dao\CustomerDao.class
+in\bassure\batch6\webflux\demo\app\handler\CustomerStreamHandler.class
+in\bassure\batch6\webflux\demo\app\WebfluxDemoApp.class
+in\bassure\batch6\webflux\demo\app\service\CustomerService.class
+in\bassure\batch6\webflux\demo\app\controller\CustomerController.class
+in\bassure\batch6\webflux\demo\app\router\RouterConfig.class
+in\bassure\batch6\webflux\demo\app\handler\CustomerHandler.class
+in\bassure\batch6\webflux\demo\app\dto\Customer.class
